@@ -56,23 +56,6 @@ body {
     background: -webkit-gradient(linear, left top, left bottom, color-stop(25%, #020024), color-stop(47%, #130021), color-stop(74%, #3e001b), to(#b0000b));
     background: linear-gradient(180deg, #020024 25%, #130021 47%, #3e001b 74%, #b0000b 100%);
   }
-  #video {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-  }
-  #video iframe {
-    max-width: 426px;
-    min-width: 320px;
-    max-height: 240px;
-    min-height: 180px;
-  }
   footer {
     background: #020024;
     background: -webkit-gradient(linear, left top, left bottom, color-stop(25%, #020024), color-stop(47%, #130021), color-stop(74%, #3e001b), to(#b0000b));
@@ -114,10 +97,6 @@ body {
   }
   header button img {
     width: 50px;
-  }
-  #video iframe {
-    max-width: 1280px;
-    max-height: 720px;
   }
 }
 /*# sourceMappingURL=styles.css.map */

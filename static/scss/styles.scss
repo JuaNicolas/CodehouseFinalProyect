@@ -77,17 +77,17 @@ $breakpoint-pc: 769px;
     }
   }
   // Video
-  #video {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    iframe {
-      max-width: 426px;
-      min-width: 320px;
-      max-height: 240px;
-      min-height: 180px;
-    }
-  }
+  // #video {
+  //   display: flex;
+  //   justify-content: center;
+  //   align-items: center;
+  //   iframe {
+  //     max-width: 426px;
+  //     min-width: 320px;
+  //     max-height: 240px;
+  //     min-height: 180px;
+  //   }
+  // }
   // Contacto
   // Footer
   footer {
@@ -135,10 +135,10 @@ $breakpoint-pc: 769px;
     }
   }
   // Video
-  #video {
-    iframe {
-      max-width: 1280px;
-      max-height: 720px;
-    }
-  }
+  // #video {
+  //   iframe {
+  //     max-width: 1280px;
+  //     max-height: 720px;
+  //   }
+  // }
 }
